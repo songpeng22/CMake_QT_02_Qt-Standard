@@ -1,0 +1,12 @@
+﻿先cmd进入dos控制台
+然后运行cmake_create_vs2013.cmd 创建vs2013的工程
+或者
+运行cmake_create_vs2015.cmd 创建vs2015的工程
+生成的工程文件，在build文件夹内，编译运行后可以看到最简单的QT界面
+
+环境：
+CMake 我装的最新版的3.13
+qt-opensource-windows-x86-5.10.1.exe
+Visual Studio 2013 -> Tools -> externsion and Updates -> 搜索Qt Visual Studio Tools
+或者
+Visual Studio 2013 -> Tools -> externsion and Updates -> 搜索Qt Visual Studio Tools
